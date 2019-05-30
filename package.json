@@ -1,0 +1,16 @@
+{
+  "name": "no-updates-for-u",
+  "version": "1.0.0",
+  "description": "No updates ( and forced restarts ) for you!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "no-updates-for-u",
+    "you-shall-not-update-my-machine",
+    "noone-simply-restarts-my-pc"
+  ],
+  "author": "Panagiotis Georgiadis",
+  "license": "ISC"
+}
